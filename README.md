@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patricia Soto @PatSoto-BioPhys
-- 👀 I’m interested in modeling how amyloid fibrils induce toxicity. Our primary interest is the prion protein. On my other research, I am interested in developing pedagogical strategies to scaffold the development of scientific computing skills of undergraduates.
-- 🌱 I’m currently learning different coarse graining approaches of proteins, lipids, and water molecules.
-- 💞️ I’m looking to collaborate on meshing wet lab biophysical data with our simulations. 
+- 👀 I’m interested in modeling how amyloid fibrils induce toxicity. Our primary interest is the prion protein.
+- 🌱 My research group includes undergraduates and high school students.
+- 💞️ I’m looking for collaborations. Just email me. 
 - 📫 How to reach me: patriciasoto@creighton.edu
 
 <!---
